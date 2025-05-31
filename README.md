@@ -2,6 +2,11 @@
 
 This is a Streamlit application for analyzing stock market data. The application connects to an SQLite database to retrieve and display market trends and prices.
 
+## Preview
+
+![App Preview](newplot.png)
+![App Report](report.png)
+
 ## Project Structure
 
 - `src/app.py`: Main entry point of the Streamlit application.
